@@ -1,0 +1,29 @@
+{
+  "name": "responsiveweb",
+  "version": "1.0.0",
+  "description": "- 无序列表一 - 无序列表二 - 无序列表三",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cfx1314/responsiveWeb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^8.3.0",
+    "cssnano": "^3.10.0",
+    "gulp": "^3.9.1",
+    "gulp-load-plugins": "^1.5.0"
+  },
+  "dependencies": {
+    "gulp-postcss": "^7.0.1",
+    "gulp-sass": "^4.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/cfx1314/responsiveWeb/issues"
+  },
+  "homepage": "https://github.com/cfx1314/responsiveWeb#readme"
+}
