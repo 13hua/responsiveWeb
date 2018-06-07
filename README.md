@@ -1,7 +1,9 @@
 # 说明
-## 这是一个简单的不依赖与任何框架的基本项目结构，包含了normalize.css, cssresets.css等样式重置文件，一般使用normalize.css即可。还增加了scss和postcss，使用gulp自动构建工具进行scss编译成css,运行gulp命令即可自动编译，如果遇到报错则结束gulp命令的执行，此时重新启动gulp运行即可。如果有需求可以考虑使用gulp配置一个打包压缩
+ 这是一个简单的不依赖与任何框架的基本项目结构，包含了normalize.css, cssresets.css等样式重置文件，一般使用normalize.css即可。还增加了scss和postcss，使用gulp自动构建工具进行scss编译成css,运行gulp命令即可自动编译，如果遇到报错则结束gulp命令的执行，此时重新启动gulp运行即可。如果有需求可以考虑使用gulp配置一个打包压缩
 ##运行
+```
  .gulp.
+ ```
 
 
 # 以下是一些md的说明
